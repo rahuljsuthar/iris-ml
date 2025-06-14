@@ -73,7 +73,7 @@ Uses the trained model to predict and display the flower species
 ![Iris Scatterplot](image/Iris_dataset_scatterplot.svg)
 
 
-![App Screenshot](image/screenshot.png)
+![App Screenshot](image/Screenshot.png)
 
 
 
