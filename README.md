@@ -61,7 +61,7 @@ pip install -r requirements.txt
 Open your browser and navigate to https://irisproject1.streamlit.app/
 
 
- How It Works
+# How It Works
 Loads the Iris dataset using sklearn.datasets.load_iris.
 
 Trains a RandomForestClassifier on the full dataset.
@@ -70,5 +70,6 @@ Accepts user input for all four iris features.
 
 Uses the trained model to predict and display the flower species
 
-file:///D:/LEARN%20python/iris%20ml/Iris_dataset_scatterplot.svg
+![Iris Scatterplot](Iris_dataset_scatterplot.svg)
+
 
