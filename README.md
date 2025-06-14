@@ -70,10 +70,10 @@ Accepts user input for all four iris features.
 
 Uses the trained model to predict and display the flower species
 
-![Iris Scatterplot](/imageIris_dataset_scatterplot.svg)
+![Iris Scatterplot](image/Iris_dataset_scatterplot.svg)
 
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](image/screenshot.png)
 
 
 
